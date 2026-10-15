@@ -13,6 +13,8 @@ Agents get the same thing a person gets: a finished list they can cite, not a pi
 
 **Connect an agent:** `https://api.specstream.ai/mcp` (Streamable HTTP, also in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.specstream) as `ai.specstream/specstream`). Setup for each client: [specstream.ai/docs/mcp](https://specstream.ai/docs/mcp).
 
+[![Add to Replit](https://replit.com/badge?caption=Add%20to%20Replit)](https://replit.com/integrations?mcp=eyJkaXNwbGF5TmFtZSI6IlNwZWNTdHJlYW0iLCJiYXNlVXJsIjoiaHR0cHM6Ly9hcGkuc3BlY3N0cmVhbS5haS9tY3AifQ==)
+
 | Install | For |
 | --- | --- |
 | `pip install specstream-client` | Python, plus the `specstream` command |
