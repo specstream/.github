@@ -5,11 +5,16 @@
   </picture>
 </a>
 
-### The live web data engine for teams and agents.
+### The live web data engine.
 
-Ask for the list you need in plain words – "food banks in Texas, with their annual revenue" – and get all of it: only the matches, each row with the page it came from, kept current and sent where you work. You see the price before anything runs, and you pay only for the matches.
+One platform to build, search, extract, enrich, map, and monitor data across the entire web.
 
-Agents get the same thing a person gets: a finished list they can cite, not a pile of pages to read.
+Ask for any dataset in plain words, and SpecStream builds it from the entire live web: every match found, extracted and enriched into structured records, then monitored for change. It runs through the API and MCP, and inside Sheets, CRMs, Slack, n8n, Zapier and the other tools teams already use.
+
+- Source URL and read time on every value.
+- The most a run can cost is shown and approved before it runs. Only delivered rows are billed, and a run that finds nothing costs nothing.
+- A saved request reruns hourly to yearly, and each row is labeled changed, unchanged or no longer matching.
+- Your agent works on your account, inside the spending limits you set.
 
 **Connect an agent:** `https://api.specstream.ai/mcp` (Streamable HTTP, also in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.specstream) as `ai.specstream/specstream`). Setup for each client: [specstream.ai/docs/mcp](https://specstream.ai/docs/mcp).
 
