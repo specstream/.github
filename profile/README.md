@@ -11,6 +11,12 @@ One platform to build, search, extract, enrich, map, and monitor data across the
 
 Ask for any dataset in plain words, and SpecStream builds it from the entire live web: every match found, extracted and enriched into structured records, then monitored for change. It runs through the API and MCP, and inside Sheets, CRMs, Slack, n8n, Zapier and the other tools teams already use.
 
+| Product | What it does | Price |
+| --- | --- | --- |
+| [Search API](https://specstream.ai/search-api) | `GET /v1/web-search`. The most accurate web search API in the world ([scores and method](https://specstream.ai/benchmarks)). | $5 per 1,000 searches |
+| [Extract API](https://specstream.ai/extract-api) | `POST /v1/extract`. The main text of up to 20 web pages, PDF, Word or Excel files a call. | $0.80 per 1,000 pages. A page with no text is not charged. |
+| [Deep Search](https://specstream.ai/deep-search) | Ask in plain words. Get every match on the live web, in structured rows. | 5¢, 15¢ or $1 a row |
+
 - Source URL and read time on every value.
 - The most a run can cost is shown and approved before it runs. Only delivered rows are billed, and a run that finds nothing costs nothing.
 - A saved request reruns hourly to yearly, and each row is labeled changed, unchanged or no longer matching.
