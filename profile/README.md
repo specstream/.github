@@ -24,6 +24,8 @@ Ask for any dataset in plain words, and SpecStream builds it from the entire liv
 
 **Connect an agent:** `https://api.specstream.ai/mcp` (Streamable HTTP, also in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.specstream) as `ai.specstream/specstream`). Setup for each client: [specstream.ai/docs/mcp](https://specstream.ai/docs/mcp).
 
+**Pay per call, no account:** one search or one page read can be paid in USDC with [x402](https://docs.x402.org). Terms and an example of each call: `https://api.specstream.ai/.well-known/x402`. Both routes are verified with settled payments on PayAPI Market: [Search API](https://payapi.market/api/specstream-search-api) · [Extract API](https://payapi.market/api/specstream-extract-api).
+
 [![Add to Replit](https://replit.com/badge?caption=Add%20to%20Replit)](https://replit.com/integrations?mcp=eyJkaXNwbGF5TmFtZSI6IlNwZWNTdHJlYW0iLCJiYXNlVXJsIjoiaHR0cHM6Ly9hcGkuc3BlY3N0cmVhbS5haS9tY3AifQ==)
 
 | Install | For |
