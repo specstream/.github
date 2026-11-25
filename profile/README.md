@@ -42,3 +42,5 @@ Ask for any dataset in plain words, and SpecStream builds it from the entire liv
 Plugins for Claude Code, Cursor, VS Code, OpenCode, OpenClaw, Pi, Kiro and Grok Build, the n8n node and a GitHub Action live in [specstream-tools](https://github.com/specstream/specstream-tools).
 
 New accounts start with $10 of work free for 30 days, no card. [Website](https://specstream.ai) · [Docs](https://specstream.ai/docs) · [Pricing](https://specstream.ai/pricing) · [support@specstream.ai](mailto:support@specstream.ai)
+
+[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff3001?style=for-the-badge&labelColor=black)](https://e2b.dev/startups)
